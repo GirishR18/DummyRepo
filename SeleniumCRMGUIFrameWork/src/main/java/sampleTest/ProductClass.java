@@ -10,4 +10,8 @@ public class ProductClass {
 	public void display() {
 		System.out.println("TE1 is modified  ");
 	}
+	
+	public void displayG18() {
+		System.out.println("TE1 is making changes");
+	}
 }
