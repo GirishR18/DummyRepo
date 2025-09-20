@@ -7,4 +7,7 @@ public class ProductClass {
 		System.out.println("Dummy class is added");
 		System.out.println("Confirmed");
 	}
+	public void display() {
+		System.out.println("TE1 is modified  ");
+	}
 }
