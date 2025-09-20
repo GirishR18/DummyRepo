@@ -8,4 +8,9 @@ public class TE2Class{
 	public void Te2Changes() {
 		System.out.println("Te2 Made changes ");
 	}
+	
+	public void nameNaamMekyahai() {
+		System.out.println("Rahul naam toh suna hoga");
+		
+	}
 }
