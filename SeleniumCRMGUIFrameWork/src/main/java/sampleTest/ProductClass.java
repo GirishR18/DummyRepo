@@ -15,7 +15,7 @@ public class ProductClass {
 		System.out.println("TE1 is making changes");
 	}
 	
-	public void displayG() {
-		System.out.println("TE1 is made changes");
+	public void addMethod() {
+		System.out.println("Added  dummy method by TE1");
 	}
 }
