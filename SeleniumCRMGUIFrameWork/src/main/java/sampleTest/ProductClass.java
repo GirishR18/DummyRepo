@@ -14,4 +14,8 @@ public class ProductClass {
 	public void displayG18() {
 		System.out.println("TE1 is making changes");
 	}
+	
+	public void displayG() {
+		System.out.println("TE1 is made changes");
+	}
 }
